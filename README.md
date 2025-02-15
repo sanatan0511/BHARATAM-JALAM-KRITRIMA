@@ -35,8 +35,8 @@ WATER IS A VITAL THING START WITH WATER &amp; END WITH WATER.&amp; OUT OF 100% O
 </head>
 <body>
     <div class="container">
-        <div class="silver-text">COMING SOON</div>
-        <div class="dark-gold-text">Rama Society of Research and Development (RASOR) GROUP</div>
+        <div class="silver-text">Coming Soon......)</div>
+        <div class="dark-gold-text">powered &Designed  by Rama Society of Research and Development (RASOR) GROUP</div>
     </div>
 </body>
 </html>
